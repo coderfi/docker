@@ -22,7 +22,7 @@ import (
 )
 
 const (
-	DefaultNetworkBridge     = "docker0"
+	DefaultNetworkBridge     = "zdocker0"
 	MaxAllocatedPortAttempts = 10
 )
 
